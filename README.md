@@ -52,6 +52,3 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-
-lesp07.v
